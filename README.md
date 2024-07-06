@@ -51,6 +51,8 @@
 ## License and Acknowledgement
 This code repository is release under [MIT License](LICENSE). 
 
+[paper](https://openaccess.thecvf.com/content/CVPR2023W/NTIRE/papers/Wang_A_Single_Residual_Network_With_ESA_Modules_and_Distillation_CVPRW_2023_paper.pdf)
+
 ## bibtex
 ```
 @InProceedings{Wang_2023_CVPR,

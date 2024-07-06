@@ -50,3 +50,13 @@
 
 ## License and Acknowledgement
 This code repository is release under [MIT License](LICENSE). 
+
+## bibtex
+@InProceedings{Wang_2023_CVPR,
+    author    = {Wang, Yucong and Cai, Minjie},
+    title     = {A Single Residual Network With ESA Modules and Distillation},
+    booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) Workshops},
+    month     = {June},
+    year      = {2023},
+    pages     = {1971-1981}
+}

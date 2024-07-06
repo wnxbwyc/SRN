@@ -52,6 +52,7 @@
 This code repository is release under [MIT License](LICENSE). 
 
 ## bibtex
+```
 @InProceedings{Wang_2023_CVPR,
     author    = {Wang, Yucong and Cai, Minjie},
     title     = {A Single Residual Network With ESA Modules and Distillation},
@@ -60,3 +61,4 @@ This code repository is release under [MIT License](LICENSE).
     year      = {2023},
     pages     = {1971-1981}
 }
+```
